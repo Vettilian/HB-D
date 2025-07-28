@@ -1,0 +1,21 @@
+/* Include all the previous CSS styles here */
+@font-face {
+    font-family: 'Sabrina Star';
+    src: url('https://fonts.gstatic.com/s/sabrinastar/v1/LYjEdGHgj0q1AwwQTOXo3zM.woff2') format('woff2'),
+         url('https://fonts.gstatic.com/s/sabrinastar/v1/LYjEdGHgj0q1AwwQTOXo3zU.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Rest of the CSS from the original file */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: none; /* Скрываем стандартный курсор */
+}
+
+/* All previous CSS styles remain the same */
+/* (Paste the entire CSS from the original HTML file here) */
